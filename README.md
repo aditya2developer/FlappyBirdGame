@@ -36,3 +36,20 @@ How to Play:
 
 4.Try to beat your high score!
 
+🚀 Steps to Run the Flappy Bird Game in Any Java IDE
+
+1.Install Java JDK (version 8 or higher)
+
+2.Extract the FlappyBird-java.zip file to a folder on your computer
+
+3.Open your IDE (e.g., Eclipse, IntelliJ IDEA, NetBeans, VsCode)
+
+4.Create a new Java project in the IDE
+
+5.Copy all .java files from the extracted folder into the src folder of your new project
+
+6.Add image/sound resources (if any) to your project directory and ensure file paths in the code match
+
+7.Locate the main class (FlappyBird.java or similar with public static void main(String[] args))
+
+8.Right-click the main class file and select Run or click the Run button
